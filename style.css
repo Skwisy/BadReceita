@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*Pertence ao formulário de Login e Senha*/
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+#level {
+  background-color: brown;
+  width: 100px;
+  height: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
+
+/*# sourceMappingURL=style.css.map */
+
+.myBtn{
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    cursor: pointer;
+}
